@@ -176,6 +176,6 @@ Run `/wwd version` and paste the debug report into your comment along with the s
 
 ## Credits and License
 
-Warchiefs War Diary is written by **TankyShrimp** aka **Mtechnik/Nolvus** and released under the **MIT License**.
+Warchiefs War Diary is written by **TankyShrimp** aka **Mtechnik/Nolvus** and released under the **ALL RIRGHTS RESERVED**.
 War Diary contains no code from any other addon. In particular, no APR code is included. Retail guide content is generated at run time from the game's own data.
 World of Warcraft art, icons and data are the property of Blizzard Entertainment. This project is not affiliated with or endorsed by Blizzard Entertainment.
