@@ -145,7 +145,7 @@ Choose from eight background themes, set the font size, spacing, padding, colour
 It restyles it. The Campaign and quest sections are replaced by War Diary's Campaign / Main / Side sections, while world quests, achievements, bonus objectives and scenarios stay Blizzard's. `/wwd off` turns the restyle off.
 
 **Where do the guides come from?**
-On retail, from the game itself. Storylines, campaigns and world quests are read from the client's own questline data at run time. Nothing is copied from other addons or websites.
+On retail, from the game itself. Storylines, campaigns and world quests are read from the client's own questline data at run time.
 
 **How do I move the tracker?**
 Use Blizzard's Edit Mode, either through `/wwd move` or with **Guide Viewer > Tracker > Move the tracker**. The compact step bar follows the tracker when it's attached.
